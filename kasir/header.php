@@ -64,14 +64,14 @@
                         <li class="nav-item dropdown hidden-caret">
                             <a class="dropdown-toggle profile-pic" data-toggle="dropdown" href="#" aria-expanded="false">
                                 <div class="avatar-sm">
-                                    <img src="../assets/img/picture.jpg" alt="..." class="avatar-img rounded-circle">
+                                    <img src="../assets/img/Zee.jpg" alt="..." class="avatar-img rounded-circle">
                                 </div>
                             </a>
                             <ul class="dropdown-menu dropdown-user animated fadeIn">
                                 <div class="dropdown-user-scroll scrollbar-outer">
                                     <li>
                                         <div class="user-box">
-                                            <div class="avatar-lg"><img src="../assets/img/picture.jpg" alt="image picture" class="avatar-img rounded"></div>
+                                            <div class="avatar-lg"><img src="../assets/img/Zee.jpg" alt="image picture" class="avatar-img rounded"></div>
                                             <div class="u-text">
                                                 <h4><?= $_SESSION['username']; ?></h4>
                                                 <p class="text-muted"><?php if ($_SESSION['role'] == 'admin') {

@@ -38,7 +38,7 @@
             <div class="logo-header" data-background-color="purple">
 
                 <a href="index.html" class="logo">
-                    <img src="../assets/login/images/bg3-removebg-preview.png" width="70" mt-2 alt="navbar brand" class="navbar-brand">
+                    <img src="../assets/login/images/ELRAFIQLG1.PNG" width="70" mt-2 alt="navbar brand" class="navbar-brand">
                 </a>
                 <button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon">
@@ -64,7 +64,7 @@
                         <li class="nav-item dropdown hidden-caret">
                             <a class="dropdown-toggle profile-pic" data-toggle="dropdown" href="#" aria-expanded="false">
                                 <div class="avatar-sm">
-                                    <img src="../assets/img/picture.jpg" alt="..." class="avatar-img rounded-circle">
+                                    <img src="../assets/img/Zee.jpg" alt="..." class="avatar-img rounded-circle">
                                 </div>
                             </a>
                             <ul class="dropdown-menu dropdown-user animated fadeIn">
@@ -72,7 +72,7 @@
                                     <li>
                                         <div class="user-box">
                                             <div class="avatar-lg">
-                                                <img src="../assets/img/picture.jpg" alt="image picture" class="avatar-img rounded"></div>
+                                                <img src="../assets/Zee.jpg" alt="image picture" class="avatar-img rounded"></div>
                                             <div class="u-text">
                                                 <h4><?= $_SESSION['username']; ?></h4>
                                                 <p class="text-muted"><?php if ($_SESSION['role'] == 'admin') {
@@ -103,7 +103,7 @@
                     <div class="user">
                         <div class="avatar-sm float-left mr-2">
                            
-                            <img src="../assets/img/picture.jpg" alt="..." class="avatar-img rounded-circle">
+                            <img src="../assets/img/Zee.jpg" alt="..." class="avatar-img rounded-circle">
                         </div>
                         <div class="info">
                             <a data-toggle="collapse" href="#collapseExample" aria-expanded="true">

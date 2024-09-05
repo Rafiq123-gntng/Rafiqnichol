@@ -54,7 +54,7 @@ $result = mysqli_query($conn, $query);
                         </div>
                     <?php endif ?>
                     <h3 class="text-center mt-0 m-b-15">
-                        <a href="#"><img src="assets/login/images/bg3-removebg-preview.png" width="200px"></a>
+                        <a href="#"><img src="assets/login/images/ELRAFIQLG1.PNG" width="200px"></a>
                     </h3>
 
                     <div class="wrap-input100 validate-input" data-validate="Enter username">
